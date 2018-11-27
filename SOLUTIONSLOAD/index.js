@@ -1,10 +1,25 @@
-/* alert('here in index.js'); */
+var stusername = localStorage.getItem('ixusername');
+var stpassword = localStorage.getItem('ixpassword');
+var stredirect = localStorage.getItem('ixredirect');
+console.log('cache username '+stusername);
+console.log('cache password '+stpassword);
+console.log('cache redirect '+stredirect);
+
+if (stusername == null && stredirect != null){
+  localStorage.removeItem('ixredirect');
+  window.alert('You are not logged in, Please login!');
+};
+
+if (stusername != null && stpassword != null){
+  validation();
+};
+
 function validation(){
   var ixpassword = document.querySelector("#password").value;
   var ixusername = document.querySelector("#username").value;
-  alert('index js '+ixusername);
   localStorage.setItem('ixusername',ixusername);
-  if (ixpassword === "test"){
+  localStorage.setItem('ixpassword',ixpassword);
+  if (ixusername != "arun" && ixpassword != "test" ){
     return window.location.replace("home.html");
   }else {
     alert("password is incorrect, try again");
