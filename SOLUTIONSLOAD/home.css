@@ -1,0 +1,29 @@
+body{
+  background-color: #E9ECEF;
+}
+#view-bt{
+  padding-right: 6px;
+  padding-left: 6px;
+  margin-left: 400px;
+}
+#preserve-bt{
+  padding-right: 6px;
+  padding-left: 6px;
+  margin-left: 500px;
+}
+
+#hi-msg{
+  margin-left: 200px;
+}
+
+#welcome-msg{
+  margin-left: 200px;
+}
+
+h1{
+  display: inline;
+}
+
+#account-bt{
+  text-align: right; 
+}

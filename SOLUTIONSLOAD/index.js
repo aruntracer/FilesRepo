@@ -1,9 +1,6 @@
 var stusername = localStorage.getItem('ixusername');
 var stpassword = localStorage.getItem('ixpassword');
 var stredirect = localStorage.getItem('ixredirect');
-console.log('cache username '+stusername);
-console.log('cache password '+stpassword);
-console.log('cache redirect '+stredirect);
 
 if (stusername == null && stredirect != null){
   localStorage.removeItem('ixredirect');

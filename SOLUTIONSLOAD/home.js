@@ -4,14 +4,17 @@ if (ixusername == null){
   window.location.replace("index.html");
 };
 
-var logoutbt = $('.logout-bt');
-var welcomemsg = $("#welcomemsg");
-if (ixusername){
-  welcomemsg.text('Welcome to SolutionsLoad! '+ixusername);
-}else {
-  welcomemsg.text('Welcome to SolutionsLoad!');
-};
-logoutbt.on("click",function() {
+$("#hi-msg").text('Hi '+ixusername+',');
+
+$('#logout-bt').on("click",function() {
   localStorage.removeItem('ixusername');
   localStorage.removeItem('ixpassword');
+});
+
+$('#preserve-bt').on("click",function() {
+  window.location.replace("preseveidea.html");
+});
+
+$('#view-bt').on("click",function() {
+  window.location.replace("viewidea.html");
 });
