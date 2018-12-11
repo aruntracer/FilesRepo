@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>SolutionsLoad</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js" charset="utf-8" defer></script>
+  </head>
+  <body>
+      <div class="container">
+        <div class="jumbotron">
+          <form action="home.html" onsubmit="return validation()" method="get">
+            <h1 class="display-4">Welcome to SolutionsLoad</h1>
+            <h3>Sign in to take care of your precious findings!</h3>
+            <div class="form-group">
+              <label for="username">User Name</label>
+              <input type="text" class="form-control" id="username" name="username" placeholder="UserName">
+              <small id="emailHelp" class="form-text text-muted">We'll never share your username with anyone else.</small>
+            </div>
+            <div class="form-group">
+              <label for="password">Password</label>
+              <input type="password" class="form-control" id="password" name="password" placeholder="Password">
+            </div>
+            <button type="submit" class="btn btn-primary">Login</button>
+          </form>
+        </div>
+      </div>
+  </body>
+</html>
