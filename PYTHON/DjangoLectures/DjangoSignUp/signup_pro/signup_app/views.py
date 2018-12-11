@@ -10,7 +10,11 @@ def users(request):
 
         if form.is_valid():
             form.save(commit=True)
-            return index(request)
+            form_dict = {'user_name':form.cleaned_data['first_name']}
+            return success(request,form_dict)
         else:
             print('Error form invalid')
     return render(request,'signup_app/users.html',{'form':form})
+def success(request,form_dict):
+    print('Name is '+form_dict['user_name'])
+    return render(request, 'signup_app/success.html',context=form_dict)

@@ -20,4 +20,6 @@ urlpatterns = [
     path('', views.index,name = "index"),
     path('admin/', admin.site.urls),
     path('users.html/',views.users,name="users"),
+    path('index.html/', views.index, name="index"),
+    path('success.html/',views.success,name="success"),
 ]
