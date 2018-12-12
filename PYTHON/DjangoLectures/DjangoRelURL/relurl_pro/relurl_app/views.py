@@ -2,7 +2,7 @@ from django.shortcuts import render
 from relurl_app.forms import NameForm
 # Create your views here.
 def index(request):
-    my_dict = {'name':'tracerZZ'}
+    my_dict = {'name':'tracer','age':25}
     return render(request,'relurl_app/index.html',context=my_dict)
 
 def formpage(request):

@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 {% extends "relurl_app/base.html" %}
+{% load my_extras %}
   {% block body_block%}
     <h1>Welcome to Tcorp</h1>
+    <h1>{{name | upper }}</h1>  <!--here python buit-in filters(upper) can be applied using pipe operator op: is TRACER-->
+    <h1>{{name |cutout:'cer'}}</h1> <!--here we are using our custom filter called cutout which is a function defined in templatetags my_extras file -->
+    <h1>{{age |add:"99"}}</h1> <!-- this filter adds 99 with age -->
   {% endblock %} <!-- here we are extending the bootstrap and nav bars from base.html page -->
 
 
