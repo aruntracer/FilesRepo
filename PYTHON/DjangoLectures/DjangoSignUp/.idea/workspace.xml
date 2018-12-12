@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d38179dd-e0c9-4387-9db4-4926732bf2b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/signup_pro/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/signup_pro/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup_pro/signup_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/signup_pro/signup_app/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup_pro/signup_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/signup_pro/signup_app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup_pro/signup_pro/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/signup_pro/signup_pro/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/signup_pro/signup_app/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="51">
               <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -31,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/signup_pro/signup_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="21" />
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -42,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/signup_pro/signup_pro/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="340">
               <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
               <folding>
                 <element signature="e#634#666#0" expanded="true" />
@@ -54,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/signup_pro/signup_app/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="68">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
@@ -111,48 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DjangoSignUp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoSignUp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoSignUp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoSignUp" type="462c0819:PsiDirectoryNode" />
-              <item name="signup_pro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoSignUp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoSignUp" type="462c0819:PsiDirectoryNode" />
-              <item name="signup_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="signup_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoSignUp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoSignUp" type="462c0819:PsiDirectoryNode" />
-              <item name="signup_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="signup_pro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoSignUp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoSignUp" type="462c0819:PsiDirectoryNode" />
-              <item name="signup_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoSignUp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoSignUp" type="462c0819:PsiDirectoryNode" />
-              <item name="signup_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="signup_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,7 +153,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12223393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12223393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -207,7 +164,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -236,16 +193,6 @@
     <entry file="file://$PROJECT_DIR$/signup_pro/signup_app/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/signup_pro/signup_app/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/signup_pro/templates/signup_app/success.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -253,9 +200,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/signup_pro/signup_app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/signup_pro/signup_pro/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="340">
           <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding>
             <element signature="e#634#666#0" expanded="true" />
@@ -265,7 +222,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/signup_pro/signup_app/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="68">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
@@ -283,7 +240,7 @@
     <entry file="file://$PROJECT_DIR$/signup_pro/signup_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="21" />
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>

@@ -30,10 +30,10 @@ python manage.py createsuperuser
             def __str__(self):
                 return str(self.data)
     '''
-'Migrate Models (Building DB)'
-    'run python manage.py migrate'
 'Register changes to Application'
     'run python manage.py makemigrations first_app'
+'Migrate Models (Building DB)'
+    'run python manage.py migrate'
 '''Now our model is ready and got registed in the sql database'''
 
 'Interact with the database - Method one:'
@@ -65,3 +65,4 @@ python manage.py createsuperuser
 
 ---view the sql present in mirgration
     '''python manage.py sqlmigrate db_app 0001'''
+---regist the models in admin page
