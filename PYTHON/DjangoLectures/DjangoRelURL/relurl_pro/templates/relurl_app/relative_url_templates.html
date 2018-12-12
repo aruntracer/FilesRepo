@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Welcome to RelativeUrl</h1>
+    <!-- <a href="/relurl_app/other.html">The Other Page</a>  in this method we need to configure the urls with 'relurl_app/other.html' name -->
+    <a href="{% url 'relurl_app:other' %}">The Other Page</a> <!-- In this method we have to mention the url keyword and give app_name(which is given in urls) and name of the url and don't leave space in app_name:url_name before and after -->
+    <a href="{% url 'admin:index' %}">Admin Page</a>
+    <a href="{% url 'index' %}">index</a> <!--Here it looks for the url name index in the main urls -->
+    <a href="{% url 'form' %}">form</a> <!--Here it looks for the url name form in the main urls -->
+  </body>
+</html>

@@ -11,3 +11,9 @@ def formpage(request):
         form = NameForm(request.POST)
         form.save(commit=True)
     return render(request,'relurl_app/form.html',{'form':form})
+
+def relative(request):
+    return render(request,'relurl_app/relative_url_templates.html')
+
+def other(request):
+    return render(request,'relurl_app/other.html')
