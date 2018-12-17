@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+{% extends "cbv_app/cbv_app_base.html" %}
+{% block body_block %}
+  <h1>Welcome to school info</h1>
+  <h2>School List</h2>
+  <ol>
+    {% for s in school_model %}
+      <li>{{s.name}}</li>
+    {% endfor %}
+  </ol>
+  <h2>Students List</h2>
+  <ol>
+    {% for s in students_model %}
+      <li>{{s.name}} is in {{s.school}}</li>
+      {% for s1 in school_model %}
+        <li>{{s1.name}}</li>
+        <li>{{s.school}}</li>
+        {% if s1.name == s.school %}
+        <li>here</li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ol>
+{% endblock %}

@@ -18,10 +18,8 @@ from django.urls import path,include
 from cbv_app import views
 urlpatterns = [
     path('admin/', admin.site.urls),
-    # path('', views.index, name="index"),
-    # path('',views.CBView.as_view()),
-    path('',views.IndexView.as_view(),name="index"),
-    path('cbv_app/',include('cbv_app.urls',namespace="cbv_app")),
-
-
+    # path('',views.index,name = "index" ),
+    # path('',views.CBview.as_view(),name = "index" ),
+    path('',views.IndexView.as_view(),name = "index" ),
+    path('cbv_app/',include("cbv_app.urls",namespace="cbv_app")),
 ]

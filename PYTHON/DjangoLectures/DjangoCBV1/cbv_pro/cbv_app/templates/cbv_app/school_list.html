@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+{% extends "cbv_app/cbv_app_base.html" %}
+{% block body_block %}
+  <h1>Welcome to a list of all schools!</h1>
+  <ol>
+    {% for s in school_context %}
+      <h2><li><a href="{{ s.id }}">{{s.name}}</a></li></h2>
+    {% endfor %}
+  </ol>
+{% endblock %}
