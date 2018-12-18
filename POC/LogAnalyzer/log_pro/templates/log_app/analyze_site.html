@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+{% extends "log_app\common_style.html" %}
+{% block body_block %}
+  <div class="container">
+    <div class="jumbotron">
+      <h1 class="display-4">Welcome to Site Analyzer</h1>
+      <p class="lead">This tool is used to scrape scrape webistes to obtain useful informations.</p>
+      <hr class="my-4">
+      <p>This utility uses custom python function called progrep to extract the required informations.</p>
+
+      <div class="input-group">
+        <div class="custom-file">
+          <input type="text" class="form-control" id="Analyzelable" placeholder="Enter URL to Scrap">
+        </div>
+        <div class="input-group-append">
+          <button class="btn btn-info" type="button" id="inputGroupFileAddon04">Analyze</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+{% endblock %}
