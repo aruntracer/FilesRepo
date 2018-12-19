@@ -1,0 +1,4 @@
+Tue Dec 10 08:36:41 IST 2013;404118135760214;9654989146;MR MD  ABDUL RASHID;0,PP - Prepaid Platinum,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
+Tue Dec 10 08:55:24 IST 2013;404012670175432;8930110919;Company Op Jindal  Global University;0,CN Small Enterprise,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
+Tue Dec 10 08:55:41 IST 2013;404110301359029;9899986303;Mr. Saivijay  Khanagav;0,IP Enterprise Employee,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
+Tue Dec 10 08:59:58 IST 2013;404012647597143;9991100538;BIJENDER  SINGH;0,PC - Prepaid Copper,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402

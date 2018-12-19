@@ -1,0 +1,7 @@
+Sun Dec 08 08:17:29 IST 2013;404119101926526;9999702931;Mr. Chirag  Narula;0,IS Individual,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
+Sun Dec 08 08:23:53 IST 2013;404119141701731;9873781409;MR ANIL  SHARMA;0,PG - Prepaid Gold,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
+Sun Dec 08 08:31:51 IST 2013;404117100192320;9810139992;Mr. Rajeev  Arora;0,IG Individual,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
+Sun Dec 08 08:36:01 IST 2013;404119101694482;9899115355;Mr. Harminder  Singh;0,IG Enterprise Employee,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
+Sun Dec 08 08:42:45 IST 2013;404118101056896;9582260536;Company Nokia Siemens Networks  India Pvt Ltd;0,CP Large Enterprise,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
+Sun Dec 08 08:41:59 IST 2013;404118142383932;7838820024;MR SK  SHARMA;0,PS - Prepaid Silver,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
+Sun Dec 08 08:50:05 IST 2013;404882945448135;8557027041;VIPAN  KUMAR;0,PM - Prepaid Mercury,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
