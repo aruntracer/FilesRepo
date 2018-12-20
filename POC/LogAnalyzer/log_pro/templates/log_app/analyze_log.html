@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 {% extends "log_app\common_style.html" %}
+{% load staticfiles %}
 {% block body_block %}
   <div class="container">
     <div class="jumbotron">
@@ -19,4 +20,5 @@
       </div>
     </div>
   </div>
+  <script src="{% static "custom_js/jquery-3.3.1.js"%}"></script>
 {% endblock %}
