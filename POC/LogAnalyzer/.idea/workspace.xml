@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1ff0f5a3-b2f2-4eb6-96b4-e3d2ec2dbf3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_pro/log_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/log_pro/log_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_pro/log_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/log_pro/log_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_pro/static/custom_css/analyze.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_pro/templates/log_app/analyze_log.html" beforeDir="false" afterPath="$PROJECT_DIR$/log_pro/templates/log_app/analyze_log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log_pro/templates/log_app/common_style.html" beforeDir="false" afterPath="$PROJECT_DIR$/log_pro/templates/log_app/common_style.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,34 +18,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log_pro/log_app/analyze_util/properties.py">
+        <entry file="file://$PROJECT_DIR$/log_pro/log_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log_pro/log_app/analyze_util/find_ten_digit_ph.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="187">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/log_pro/log_app/views.py">
+        <entry file="file://$PROJECT_DIR$/log_pro/templates/log_app/analyze_log.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="391">
+              <caret line="23" column="8" lean-forward="true" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log_pro/log_app/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -65,18 +67,19 @@
         <option value="$PROJECT_DIR$/log_pro/template/log_app/index.html" />
         <option value="$PROJECT_DIR$/log_pro/log_pro/settings.py" />
         <option value="$PROJECT_DIR$/log_pro/log_pro/urls.py" />
-        <option value="$PROJECT_DIR$/log_pro/log_app/urls.py" />
-        <option value="$PROJECT_DIR$/log_pro/log_app/views.py" />
         <option value="$PROJECT_DIR$/log_pro/log_app/utilities/properties.py" />
         <option value="$PROJECT_DIR$/log_pro/log_app/utilities/find_ten_digit_ph.py" />
         <option value="$PROJECT_DIR$/log_pro/log_app/analyze_util/find_ten_digit_ph.py" />
         <option value="$PROJECT_DIR$/log_pro/log_app/analyze_util/properties.py" />
+        <option value="$PROJECT_DIR$/log_pro/log_app/urls.py" />
+        <option value="$PROJECT_DIR$/log_pro/log_app/forms.py" />
+        <option value="$PROJECT_DIR$/log_pro/log_app/views.py" />
+        <option value="$PROJECT_DIR$/log_pro/templates/log_app/analyze_log.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-9" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -88,7 +91,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,8 +113,7 @@
               <item name="LogAnalyzer" type="b2602c69:ProjectViewProjectNode" />
               <item name="LogAnalyzer" type="462c0819:PsiDirectoryNode" />
               <item name="log_pro" type="462c0819:PsiDirectoryNode" />
-              <item name="log_app" type="462c0819:PsiDirectoryNode" />
-              <item name="analyze_util" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LogAnalyzer" type="b2602c69:ProjectViewProjectNode" />
@@ -131,6 +132,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,6 +204,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16649105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -226,16 +229,6 @@
     <entry file="file://$PROJECT_DIR$/log_pro/template/log_app/index.html" />
     <entry file="file://$PROJECT_DIR$/log_pro/template/log_app/common_style.html" />
     <entry file="file://$PROJECT_DIR$/log_pro/template/index.html" />
-    <entry file="file://$PROJECT_DIR$/log_pro/log_app/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/log_pro/log_pro/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -273,7 +266,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/log_pro/log_app/analyze_util/find_ten_digit_ph.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="17">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -281,13 +274,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/log_pro/templates/log_app/common_style.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_pro/log_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_pro/log_app/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/log_pro/log_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="187">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_pro/templates/log_app/analyze_log.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="8" lean-forward="true" selection-end-line="25" />
         </state>
       </provider>
     </entry>
