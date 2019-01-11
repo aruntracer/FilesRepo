@@ -2,7 +2,8 @@ import os
 from log_analyzer.properties import airport_logs_dir,airport_file_name,airport_col_name
 from log_analyzer.my_functions import find_nth_character,remove_numbers,get_splitter,get_formatted_date
 import csv
-import cx_Oracle
+#import cx_Oracle
+import mysql.connector
 import sys
 
 log_file = open(airport_file_name, 'w',newline='')
@@ -32,8 +33,10 @@ for file in dirs:
                 writer.writerows(row_data)
                 
 try:
-    con = cx_Oracle.connect('arun1297/arun1297@bdes059.prodapt.com:1521/orcl.prodapt.com')
-    cur = con.cursor()
+    #con = cx_Oracle.connect('arun1297/arun1297@bdes059.prodapt.com:1521/orcl.prodapt.com')
+	#cur = con.cursor()
+	con = mysql.connector.connect(host="192.168.26.120",user="root",passwd="root",database="log_analyser" )
+	cur = con.cursor()
 except:    
     sys.exit('DB connection error: '+str(sys.exc_info()[1]))
 with open(airport_file_name) as csv_file:                  
@@ -41,12 +44,12 @@ with open(airport_file_name) as csv_file:
     for row in readcsv:
         try:                
             if row[0] != 'FILE_NAME':                
-                #print("insert into arun1297.airport_log values('"+row[0]+"','"+row[1]+"',"+str.replace(row[2],'-','')+","+str.replace(row[3],"'","''")+",'"+str.replace(row[4],"'","''")+"','"+row[5]+"','"+row[6]+"','"+row[7]+"')")
-                insert_row ="insert into arun1297.airport_log values('"+str.replace(row[0],"'","''")+"','"+str.replace(row[1],"'","''")+"',"+str.replace(row[2],'-','')+","+str.replace(row[3],"'","''")+",'"+str.replace(row[4],"'","''")+"','"+str.replace(row[5],"'","''")+"','"+str.replace(row[6],"'","''")+"','"+str.replace(row[7],"'","''")+"')"
+                #print("insert into data_collector values('"+row[0]+"','"+row[1]+"',"+str.replace(row[2],'-','')+","+str.replace(row[3],"'","''")+",'"+str.replace(row[4],"'","''")+"','"+row[5]+"','"+row[6]+"','"+row[7]+"')")
+                insert_row ="insert into adata_collector values('"+str.replace(row[0],"'","''")+"','"+str.replace(row[1],"'","''")+"',"+str.replace(row[2],'-','')+","+str.replace(row[3],"'","''")+",'"+str.replace(row[4],"'","''")+"','"+str.replace(row[5],"'","''")+"','"+str.replace(row[6],"'","''")+"','"+str.replace(row[7],"'","''")+"')"
                 cur.execute(insert_row)                
         except:            
             print('Skipped -- '+row[0]+", "+str(sys.exc_info()[1]))
-            insert_row ="insert into arun1297.error_log values('"+row[0]+"','"+str.replace(str(sys.exc_info()[1]),"'","''")+"')"
+            insert_row ="insert into data_collector values('"+row[0]+"','"+str.replace(str(sys.exc_info()[1]),"'","''")+"')"
             cur.execute(insert_row)
             pass
 con.commit()
