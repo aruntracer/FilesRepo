@@ -1,0 +1,4 @@
+Mon Dec 02 01:13:45 IST 2013;404118133423122;9582774770;MR DHIRAJ C  LANJEWAR;0,PP - Prepaid Platinum,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
+Mon Dec 02 01:16:32 IST 2013;404201080297864;9820081447;Ms. Sheetal P Kajrekar;0,IG Individual,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
+Mon Dec 02 01:48:42 IST 2013;404116100021632;9654956377;Company Unitech Wireless Tamil Nadu  Pvt.Ltd.;0,CP Large Enterprise,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
+Mon Dec 02 01:50:31 IST 2013;404116100272347;9654984652;Company Nokia Siemens Networks India  Pvt Ltd;0,CP Large Enterprise,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
