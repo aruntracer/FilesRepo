@@ -45,8 +45,9 @@ with open(airport_file_name) as csv_file:
         try:                
             if row[0] != 'FILE_NAME':                
                 #print("insert into data_collector values('"+row[0]+"','"+row[1]+"',"+str.replace(row[2],'-','')+","+str.replace(row[3],"'","''")+",'"+str.replace(row[4],"'","''")+"','"+row[5]+"','"+row[6]+"','"+row[7]+"')")
-                insert_row ="insert into adata_collector values('"+str.replace(row[0],"'","''")+"','"+str.replace(row[1],"'","''")+"',"+str.replace(row[2],'-','')+","+str.replace(row[3],"'","''")+",'"+str.replace(row[4],"'","''")+"','"+str.replace(row[5],"'","''")+"','"+str.replace(row[6],"'","''")+"','"+str.replace(row[7],"'","''")+"')"
-                cur.execute(insert_row)                
+                insert_row ="insert into data_collector(object_key,object_name,data1,data2,data3,data4,data5,data6,data7) " \
+                            "values('Airport','"+str.replace(row[0],"'","''")+"','"+str.replace(row[1],"'","''")+"',"+str.replace(row[2],'-','')+","+str.replace(row[3],"'","''")+",'"+str.replace(row[4],"'","''")+"','"+str.replace(row[5],"'","''")+"','"+str.replace(row[6],"'","''")+"','"+str.replace(row[7],"'","''")+"')"
+                cur.execute(insert_row)
         except:            
             print('Skipped -- '+row[0]+", "+str(sys.exc_info()[1]))
             insert_row ="insert into data_collector values('"+row[0]+"','"+str.replace(str(sys.exc_info()[1]),"'","''")+"')"
