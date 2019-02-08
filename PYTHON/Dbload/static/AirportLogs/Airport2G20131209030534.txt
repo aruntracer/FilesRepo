@@ -1,8 +1,0 @@
-Mon Dec 09 02:07:37 IST 2013;404119101819670;9811725374;Mr. Rajesh  Mehta;0,IS Enterprise Employee,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Mon Dec 09 02:19:48 IST 2013;404119100436396;8447754693;Ms. Sreyoshi  Ghatak;0,IS Enterprise Employee,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Mon Dec 09 02:49:24 IST 2013;404201677554541;9833674007;Amaan  Namavati;0,,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Mon Dec 09 02:48:31 IST 2013;404119134326044;9873625128;MR DILEEP  KUMAR;0,PG - Prepaid Gold,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Mon Dec 09 03:00:34 IST 2013;404300139265470;9830818460;Ms SUDAKSHINA  HORE;0,PG - Prepaid Gold,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Mon Dec 09 03:08:50 IST 2013;404110301600879;9899409507;Mr. Sanjeev  Sethi;0,IG Rmbrsed Enterprise Employee,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Mon Dec 09 03:29:10 IST 2013;404864480108074;9538202020;Mr. ARUN PAUL;0,IP Enterprise Employee,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Mon Dec 09 03:46:31 IST 2013;404119100959974;9999106642;Mr. Sudhanshu  Sinha;0,IS Individual,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402

@@ -1,2 +1,0 @@
-Wed Dec 18 11:19:35 IST 2013;404152874615413;9984556724;Mr. HABIULLA;0,PS - Prepaid Silver,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Wed Dec 18 11:46:59 IST 2013;404201148601060;9820372042;Mr. Jignesh P Parmar;0,CP Large Enterprise,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401

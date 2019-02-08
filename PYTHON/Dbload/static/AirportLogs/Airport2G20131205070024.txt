@@ -1,3 +1,0 @@
-Thu Dec 05 07:02:21 IST 2013;404119101435684;9899884065;Ms. Neha  Gupta;0,IS Enterprise Employee,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Thu Dec 05 07:18:32 IST 2013;404110206947719;9811774883;CO Nitin  Chauhan;0,PP - Prepaid Platinum,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Thu Dec 05 07:37:24 IST 2013;404154120085854;8795835887;Company RUCHI ORGANICS LTD  C/o Ashok;0,CB Fix Lmt Small Enterprise,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402

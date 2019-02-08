@@ -1,4 +1,0 @@
-Mon Dec 09 00:38:52 IST 2013;404118101921590;9711510108;Mr. Hardeep  Kumar;0,IN Individual,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Mon Dec 09 00:55:21 IST 2013;405662570155776;9720888129;Mr Shanti  Prasad;0,PG - Prepaid Gold,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Mon Dec 09 01:39:40 IST 2013;404118101579273;9711069595;Mr. Kartika  Kaushik;0,IN Individual,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Mon Dec 09 01:49:39 IST 2013;404119138676457;9811515928;MR SUMIT  SINGH RATHORI;0,PG - Prepaid Gold,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401

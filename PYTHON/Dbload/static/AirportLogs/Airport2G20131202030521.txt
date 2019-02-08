@@ -1,3 +1,0 @@
-Mon Dec 02 02:16:00 IST 2013;404117100172169;9212525046;Mr. Amarjit  Singh;0,IS Individual,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Mon Dec 02 02:25:13 IST 2013;404110400911809;9999919002;Mr. Vineet  Gogia;0,IP Enterprise Employee,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Mon Dec 02 03:03:29 IST 2013;404119138676457;9811515928;MR SUMIT  SINGH RATHORI;0,PG - Prepaid Gold,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401

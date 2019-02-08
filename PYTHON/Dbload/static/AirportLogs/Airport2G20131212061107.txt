@@ -1,3 +1,0 @@
-Thu Dec 12 06:19:47 IST 2013;404119131580297;9811507125;CO Mamraj  Singh Negi;0,PB - Prepaid Bronze,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Thu Dec 12 06:42:55 IST 2013;404118101433335;9953977700;Mr. Pradeep  Gautam;0,IS Enterprise Employee,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Thu Dec 12 06:46:21 IST 2013;404118101404741;8860003399;Mr. Rishi  Vij;0,IS Enterprise Employee,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401

@@ -1,6 +1,0 @@
-Sun Dec 08 01:32:16 IST 2013;404051084449916;9925863060;ANKITBHAI PATEL;0,PP - Prepaid Platinum,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Sun Dec 08 01:34:50 IST 2013;404842215767058;8939966464;Mr AYYAPPAN  R;0,IG Enterprise Employee,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Sun Dec 08 01:44:09 IST 2013;404110401340200;9811385250;Mr. Prahlad  Avasthi;0,IP Enterprise Employee,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Sun Dec 08 02:11:31 IST 2013;404119101710885;8447609703;Company Wipro  Limited;0,CP Large Enterprise,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Sun Dec 08 02:38:38 IST 2013;404882915074909;9988114100;NAVDIPINDER  SINGH;0,PG - Prepaid Gold,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Sun Dec 08 02:55:33 IST 2013;404119100344217;9811423456;Ms. Swati Shelly  Tripathi;0,IS Enterprise Employee,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401

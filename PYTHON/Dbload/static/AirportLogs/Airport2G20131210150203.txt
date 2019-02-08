@@ -1,3 +1,0 @@
-Tue Dec 10 13:36:17 IST 2013;404117100625011;9990502242;Mr. Anwar Shadab  Ansari;0,IN Individual,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Tue Dec 10 13:38:18 IST 2013;404110202275054;9873039191;Company Metso Minerals India  Pvt Ltd.;0,CP Large Enterprise,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Tue Dec 10 13:48:49 IST 2013;404110202175649;9873494153;Mr. Vijender  Tanwar;0,IS Individual,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401

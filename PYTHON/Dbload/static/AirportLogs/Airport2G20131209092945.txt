@@ -1,5 +1,0 @@
-Mon Dec 09 09:19:29 IST 2013;404118100011753;8860006860;Mr. Suresh Singh  Yadav;0,IP CIP individual,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Mon Dec 09 09:18:05 IST 2013;404118135958058;9582921321;MS SHAKILA  .;0,PS - Prepaid Silver,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Mon Dec 09 09:25:48 IST 2013;404117131077704;8527004056;RAJESH  SHAH;0,PM - Prepaid Mercury,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Mon Dec 09 09:26:57 IST 2013;404119100407692;9873263345;Mr. Mannawar  Hussain;0,IS Rmbrsed Enterprise Employee,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Mon Dec 09 09:42:51 IST 2013;404118100104271;9711334447;Mr. Ram  Chander;0,IS Enterprise Employee,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402

@@ -1,2 +1,0 @@
-Tue Dec 10 11:51:48 IST 2013;404117100588713;9311614981;Mr. Amar  Choudhary;0,IS Individual,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Tue Dec 10 11:46:02 IST 2013;404466038696060;9946846820;MIG TOJO  TOMS;0,PS - Prepaid Silver,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402

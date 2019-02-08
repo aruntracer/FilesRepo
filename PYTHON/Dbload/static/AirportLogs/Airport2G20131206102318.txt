@@ -1,3 +1,0 @@
-Fri Dec 06 10:05:19 IST 2013;404119100496162;9811472719;Mr. Arpit  Bhargava;0,IG Enterprise Employee,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Fri Dec 06 10:05:33 IST 2013;404119100574922;9811992221;Mr. Sanjiv Kapur;0,CP VIP Large Enterprise,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Fri Dec 06 10:33:01 IST 2013;404300106718890;9830032086;Mr. ISHPAL SINGH  SETHI;0,IP Individual,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402

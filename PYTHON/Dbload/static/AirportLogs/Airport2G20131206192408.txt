@@ -1,2 +1,0 @@
-Fri Dec 06 15:42:50 IST 2013;405752655261567;8676819156;ANUJ KUMAR JHA;0,PM - Prepaid Mercury,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Fri Dec 06 15:52:10 IST 2013;404110201825891;9873802249;Company Rodhe &  Schwarz;0,CP Large Enterprise,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401

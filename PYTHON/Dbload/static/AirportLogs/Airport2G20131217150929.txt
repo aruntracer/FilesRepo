@@ -1,3 +1,0 @@
-Tue Dec 17 15:02:40 IST 2013;404201580261154;9167251187;Mr. Rohit Y Rane;0,IS Enterprise Employee,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Tue Dec 17 15:13:38 IST 2013;404882945274847;7837916905;AARTI  SOOD;0,PM - Prepaid Mercury,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Tue Dec 17 15:58:31 IST 2013;404882918434949;9888833998;4 Sumit Kumar Sharma;0,PS - Prepaid Silver,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401

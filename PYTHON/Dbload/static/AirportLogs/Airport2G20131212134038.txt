@@ -1,2 +1,0 @@
-Thu Dec 12 12:29:01 IST 2013;404114100376619;9711133124;Company Mittal Vineyards  Pvt. Ltd.;0,CG Small Enterprise,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Thu Dec 12 12:39:36 IST 2013;404119135890845;8586960742;MRS JESIKA  RAI;0,PG - Prepaid Gold,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401

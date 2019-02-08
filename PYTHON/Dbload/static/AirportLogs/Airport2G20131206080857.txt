@@ -1,3 +1,0 @@
-Fri Dec 06 08:19:21 IST 2013;404118135958058;9582921321;MS SHAKILA  .;0,PS - Prepaid Silver,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
-Fri Dec 06 08:35:30 IST 2013;404119100348899;9999635975;Company Emirates   ;0,CP Large Enterprise,5401;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5401
-Fri Dec 06 08:42:48 IST 2013;404882915077388;9888075712;1 RAJAN  GUPTA;0,PP - Prepaid Platinum,5402;11166;Del_Delhi_South Delhi_SD_IBC_T3_Terminal_Intern_166_5402
